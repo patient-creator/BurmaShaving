@@ -17,7 +17,7 @@ public class BurmaShaving {
          JOptionPane.showMessageDialog(null," Shaving brushes");
             JOptionPane.showMessageDialog(null," you'll soon see 'em ");
          JOptionPane.showMessageDialog(null, " On a shelf ");
-           JOptionPane.showMessageDialog(null" In some museum ");
+           JOptionPane.showMessageDialog(null," In some museum ");
             JOptionPane.showMessageDialog(null, " Burma shave ");
         
      
